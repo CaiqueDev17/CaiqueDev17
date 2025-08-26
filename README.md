@@ -11,11 +11,6 @@
 - 📚 Sempre curioso para aprender novas tecnologias  
 - 🤝 Aberto a colaborar em projetos para ganhar experiência  
 
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SimoneMendes2&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneMendes2&layout=compact&theme=radical)
 ---
 
 ## 🔗 Onde me encontrar
