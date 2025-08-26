@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Olá, me chamo Caique Rodrigues!  
+# Olá, me chamo Caique Rodrigues!  
   
 🎓 Cursando **Análise e Desenvolvimento de Sistemas**.  
 🌱 Atualmente aprendendo **JavaScript, Python**.  
