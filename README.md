@@ -14,7 +14,7 @@
 ---
 
 ## 🔗 Onde me encontrar
-- 💼 [LinkedIn](www.linkedin.com/in/caique-rodrigues17)  
+- 💼 [LinkedIn]([www.linkedin.com/in/caique-rodrigues17](https://www.linkedin.com/in/caique-rodrigues17/))  
 - 🖥️ [GitHub](github.com/CaiqueDev17/CaiqueDev17)  
 - 📧 **caiquerodriguesdev@outlook.com**  
 
