@@ -11,7 +11,9 @@
 ## Sobre mim
 
 🚀 Em constante evolução no universo da programação, desenvolvendo habilidades para me tornar Full Stack
+
 📚 Curioso e dedicado a aprender continuamente novas tecnologias e boas práticas de desenvolvimento
+
 🤝 Aberto a colaborar em projetos que gerem experiência prática e impacto real
 
 ---
